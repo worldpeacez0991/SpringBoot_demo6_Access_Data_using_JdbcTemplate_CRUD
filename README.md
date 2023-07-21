@@ -11,8 +11,8 @@ You may refer to Step 2 of https://github.com/worldpeacez0991/SpringBoot_demo5_D
 </li>
 <br/>
 
-<li>If you are using existing project from SpringBoot_demo5_Database, remember to replace these files<br/>
-Replace these files: 
+<li>If you are using existing project from SpringBoot_demo5_Database, remember to<br/>
+replace these files: 
 <ul>
 <li>build.gradle</li>
 <li>src\main\java\com\example\demo\DemoApplication.java</li>
