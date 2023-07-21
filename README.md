@@ -24,7 +24,7 @@ Replace these files:
 
 <li>When Spring Boot Application starts, SQL Data is loaded in 2 ways:
 <ul>
-<li>Via SQL file preload, with this file 'src\main\resources\data.sql'</li>
+<li>Via SQL file preload, with this file 'src\main\resources\data.sql' - this is demo 5 code, which can coexist with demo6 code</li>
 <li>Via JdbcTemplate in code, with this file 'src\main\java\com\example\demo\DemoApplication.java' - CRUD Example</li>
 </ul>
 </li>
