@@ -40,11 +40,11 @@ This shows how to use Spring Boot JdbcTemplate to access H2 Database with CRUD (
 
 
 <br/>
-<li>Via browser, type 'http://localhost:8080/h2-console', to test
+<li>Via browser, type 'http://localhost:8080/h2-console', to view data in H2 database.
 <br/>
 You may refer to Step 4 of https://github.com/worldpeacez0991/SpringBoot_demo5_Database.</li>
-</li>
 
+<br/>
 Credits: https://spring.io/team<br/>
 Source: https://www.baeldung.com/spring-boot-h2-database<br/>
 Discussion: https://stackoverflow.com/questions/4573975/jpa-vs-spring-jdbctemplate<br/>
